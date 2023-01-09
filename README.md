@@ -24,7 +24,7 @@ const me = {
                 Javascript: ['Vanilla JS', 'React'],
                 TypeScript,
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'Styled-Components']
+                CSS: [ 'Styled-Components']
             },
             backEnd: {
                 Javascript: ['Node JS', 'Express'],
